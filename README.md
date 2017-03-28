@@ -1,7 +1,7 @@
 # Algorithms (C/C++, Python)
 # by Prometheus111
 
-# Cyclic shift right simple algorithm (Python)
+## Cyclic shift right simple algorithm (Python)
 This code can help you to realise the simple cyclic shift right algorithm. \
 \
 Download only source code: github.com/Prometheus111/CyclicShift/blob/master/CyclicShiftRight.py \
