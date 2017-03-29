@@ -7,11 +7,11 @@ Download only source code: https://github.com/Prometheus111/CyclicShift/blob/mas
 ### Enjoy learning new things! Prometheus111 helps you with your studying!
 ### https://github.com/Prometheus111 
 
-### РУССКИЙ:
+### Русский перевод:
 
 # Алгоритмы (C/C++, Python) от Prometheus111
 
-### Cyclic shift right simple algorithm (Python)
+### Алгоритм циклического сдвига вправо (Python)
 Этот код поможет Вам реализовать простейший алгоритм циклического сдвига вправо. \
 Скачать исходный код: https://github.com/Prometheus111/CyclicShift/blob/master/CyclicShiftRight.py \
 ### Скачать репозиторий: https://github.com/Prometheus111/Algorithms/archive/master.zip
