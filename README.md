@@ -7,7 +7,7 @@ Download only source code: https://github.com/Prometheus111/CyclicShift/blob/mas
 ### Enjoy learning new things! Prometheus111 helps you with your studying!
 ### https://github.com/Prometheus111 
 
-# РУССКИЙ:
+### РУССКИЙ:
 
 # Алгоритмы (C/C++, Python) от Prometheus111
 
