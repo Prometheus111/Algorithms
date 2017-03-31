@@ -1,4 +1,4 @@
-# CyclicShiftRight.py
+# 1_CyclicShiftRight.py
 # by Prometheus111
 value = input("Integer data only: ")    #type the integer data
 N = int(value)                          #your input data to variable N
@@ -11,5 +11,5 @@ while number < len(A) / 2:
     A[-number - 1] = temp
     number = number + 1
 print('Final array:', A)                #output the final array
-# Enjoy learning new things! Prometheus111 helps you with your studying!
+# Enjoy learning new things! 
 # https://github.com/Prometheus111 
